@@ -1,5 +1,6 @@
 # IntelliJ Files
 .idea
+.idea/*
 
 # Eclipse Core
 .project
@@ -7,4 +8,3 @@
 # Excel files
 *.xls
 *.xlsx
-Writesheet.xlsx
