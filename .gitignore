@@ -1,9 +1,9 @@
 # IntelliJ Files
-.idea/*
+.idea
 
 # Eclipse Core
 .project
 
 # Excel files
 *.xls
-*.xlx*
+*.xlsx
