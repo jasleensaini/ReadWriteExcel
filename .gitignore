@@ -1,2 +1,8 @@
+# IntelliJ Files
+.idea/*
+
+# Eclipse Core
+.project
+
 # Excel files
 *.xls
